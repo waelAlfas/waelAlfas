@@ -1,16 +1,15 @@
-## Hi there 👋
+# وائل سعيد صغير الفصلي
 
-<!--
-**waelAlfas/waelAlfas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+طالب نظم معلومات في جامعة عمران، أعمل على تطوير مهاراتي في البرمجة وقواعد البيانات والشبكات. أركز على التطبيق العملي لما أتعلمه وأستخدم GitHub لتوثيق شغلي ومشاركته. أهدف إلى تحسين مستواي التقني بشكل مستمر من خلال التعلم والتجربة.
 
-Here are some ideas to get you started:
+## المهارات
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- لغات برمجة: Java، HTML، CSS، JavaScript، SQL  
+- قواعد بيانات: Oracle، MySQL  
+- مفاهيم الشبكات: نموذج OSI، TCP/IP  
+- أدوات العمل: Git، GitHub، Visual Studio Code  
+
+## تواصل
+
+[GitHub](https://github.com/USERNAME) | [Email](mailto:YOUR_EMAIL@example.com)
+
