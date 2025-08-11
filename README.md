@@ -1,78 +1,44 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Wael's Animated README</title>
-<style>
-    body {
-        background: linear-gradient(135deg, #0f2027, #203a43, #2c5364);
-        color: white;
-        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        height: 100vh;
-        margin: 0;
-        overflow: hidden;
-    }
-    .container {
-        background: rgba(255, 255, 255, 0.1);
-        border-radius: 20px;
-        padding: 30px;
-        max-width: 600px;
-        box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
-        animation: fadeIn 2s ease-in-out;
-    }
-    h1 {
-        color: #00e6e6;
-        animation: glow 1.5s infinite alternate;
-    }
-    @keyframes glow {
-        from { text-shadow: 0 0 10px #00e6e6, 0 0 20px #00e6e6; }
-        to { text-shadow: 0 0 20px #00ffcc, 0 0 40px #00ffcc; }
-    }
-    @keyframes fadeIn {
-        from { opacity: 0; transform: translateY(-20px); }
-        to { opacity: 1; transform: translateY(0); }
-    }
-    .skills, .contact {
-        margin-top: 20px;
-        padding-left: 20px;
-    }
-    li {
-        margin-bottom: 5px;
-    }
-    .highlight {
-        color: #ffcc00;
-    }
-</style>
-</head>
-<body>
-    <div class="container">
-        <h1>Hi there, I'm Wael Saeed Sagheer Al-Fasli 👋</h1>
-        <p>🎓 <span class="highlight">Information Systems Student</span> at Amran University – Yemen.</p>
-        <p>💡 Passionate about technology, programming, and problem-solving.</p>
-        <p>📚 Constantly learning and building a strong foundation in <b>Programming, Databases, and Networking</b>.</p>
-        <p>🎯 Aspiring to establish a tech company that makes a real difference in my community.</p>
-        <div class="skills">
-            <h2>🛠 Skills</h2>
-            <ul>
-                <li>Programming Languages: Java, HTML, CSS, JavaScript</li>
-                <li>Databases: Oracle, MySQL</li>
-                <li>Concepts: OOP, Data Structures, Algorithms</li>
-                <li>Tools: Git, GitHub, VS Code, NetBeans</li>
-            </ul>
-        </div>
-        <div class="contact">
-            <h2>📫 Contact Me</h2>
-            <ul>
-                <li>Email: <a href="mailto:YOUR_EMAIL@example.com">YOUR_EMAIL@example.com</a></li>
-                <li>GitHub: <a href="https://github.com/USERNAME" target="_blank">USERNAME</a></li>
-                <li>LinkedIn: Add link if available</li>
-            </ul>
-        </div>
-        <p><i>"Continuous learning and practical application are the keys to success."</i></p>
-    </div>
-</body>
-</html>
+<p align="center">
+  <img alt="header" src="https://raw.githubusercontent.com/USERNAME/USERNAME/main/profile-header.png" width="100%" />
+</p>
+
+# Hi — I'm Wael Saeed Sagheer Al-Fasli 👋
+
+**Information Systems student** at Amran University (Yemen).  
+I develop practical skills in programming, databases and networking, and I use GitHub to document my learning and experiments. Focused, direct, and continuously improving.
+
+---
+
+## 🛠 Tech stack
+<p>
+  <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+  <img alt="Oracle" src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white"/>
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+  <img alt="VSCode" src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"/>
+</p>
+
+---
+
+## Summary
+- Studying Information Systems; applying theory through small, focused projects and exercises.  
+- Comfortable with database design, SQL queries (Oracle/MySQL), and basic network concepts (OSI/TCP-IP).  
+- Use Git for version control and GitHub to keep a public record of progress.
+
+---
+
+## Contact
+- **GitHub:** [github.com/USERNAME](https://github.com/USERNAME)  
+- **Email:** YOUR_EMAIL@example.com
+
+---
+
+<!-- Optional: GitHub stats (uncomment if you want) -->
+<!--
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&locale=en" alt="wael's github stats" />
+</p>
+-->
