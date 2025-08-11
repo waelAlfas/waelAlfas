@@ -18,4 +18,4 @@
 ## 📫 التواصل
 
 - [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/USERNAME)  
-- 📧 بريد إلكتروني: YOUR_EMAIL@example.com
+- 📧 بريد إلكتروني: waelalfasly@gmail.com
